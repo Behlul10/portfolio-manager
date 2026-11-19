@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 public class BankAccount implements Valuable {
     private double balance;
 

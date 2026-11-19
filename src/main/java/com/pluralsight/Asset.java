@@ -1,3 +1,5 @@
+package com.pluralsight;
+
 public abstract class Asset implements Valuable {
     String name;
     double marketValue;
